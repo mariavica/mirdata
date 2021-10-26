@@ -2,11 +2,10 @@
 \alias{targetScan_v6_2_zebrafish}
 \docType{data}
 \title{
-%%   ~~ data name/kind ... ~~
+targetScan_zebrafish_v6.2
 }
 \description{
-%%  ~~ A concise (1-5 lines) description of the dataset. ~~
-}
+targetScan_zebrafish_v6.2}
 \usage{data("targetScan_v6_2_zebrafish")}
 \format{
   A data frame with 886249 observations on the following 3 variables.
